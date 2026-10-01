@@ -5,7 +5,7 @@
 ---
 
 ### 📜 Patent & Academic Status
-- **Patent Status:** 대한민국 지식재산처(MOIP) **독점 원천 기술 특허 및 방법론 출원 완료** (`범용 오픈큐에이에스엠 게이트 시퀀스 실시간 컴파일 및 크래머-라오 하한 정보 가드 기반의 2^N 차원 복소수 확률 진폭 중첩 양자 컴퓨팅 에뮬레이션 커널 시스템 및 그 방법`)
+- **Patent Status:** 대한민국 지식재산처(MOIP) **독점 원천 기술 특허 출원 완료** (`제 10-2026-0187992 호`)
 - **Academic Status:** 타겟 국제 양자 정보학 및 컴퓨터공학 학술지 선정 중 (Targeting Top-tier Journals)
 - **Digital Object Identifier:** CERN **Zenodo 공식 글로벌 고유 DOI 박제 및 연동 예정**
 
