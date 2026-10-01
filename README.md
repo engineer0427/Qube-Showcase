@@ -75,7 +75,7 @@ Qube 프로젝트는 외부의 물리적 장치 개입 없이, 연속 회전 게
 ### 📈 Convergence Dynamics Plot
 오픈QASM 컴파일러 프론트엔드를 거쳐 유입된 10개의 물리 게이트 명령어가 중간 오염 분포를 완벽히 0.00000으로 지워버리고, 고양이가 완전히 살아있는 상태와 완전히 죽어있는 상태에만 칼날처럼 정확히 0.50000 씩 수속 안착되는 우주적 양자 응집 밀도 그래프입니다.
 
-![Simulation Convergence](./assets/graph.png)
+![Simulation Convergence](assets/graph.png)
 
 ---
 
