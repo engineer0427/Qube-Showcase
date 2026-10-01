@@ -7,7 +7,7 @@
 ### 📜 Patent & Academic Status
 - **Patent Status:** 대한민국 지식재산처(MOIP) **독점 원천 기술 특허 출원 완료** (`제 10-2026-0187992 호`)
 - **Academic Status:** 타겟 국제 양자 정보학 및 컴퓨터공학 학술지 선정 중 (Targeting Top-tier Journals)
-- **Digital Object Identifier:** CERN **Zenodo 공식 글로벌 고유 DOI 박제 및 연동 예정**
+- **Digital Object Identifier:** CERN **Zenodo 공식 글로벌 고유 DOI 박제 및 연동 예정 (프리프린트 연계)**
 
 ---
 
